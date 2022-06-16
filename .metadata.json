@@ -1,0 +1,18 @@
+[
+  {
+    "package": "gap",
+    "oncran": true
+  },
+  {
+    "package": "gap.datasets",
+    "oncran": true
+  },
+  {
+    "package": "lmm",
+    "oncran": true
+  },
+  {
+    "package": "tdthap",
+    "oncran": true
+  }
+]
