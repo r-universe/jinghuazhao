@@ -3,27 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "gap"]
-	path = gap
-	url = https://github.com/jinghuazhao/r
-	shallow = true
-	subdir = gap
-	registered = true
-[submodule "gap.datasets"]
-	path = gap.datasets
-	url = https://github.com/jinghuazhao/r
-	shallow = true
-	subdir = gap.datasets
-	registered = true
-[submodule "lmm"]
-	path = lmm
-	url = https://github.com/jinghuazhao/r
-	shallow = true
-	subdir = lmm
-	registered = true
-[submodule "tdthap"]
-	path = tdthap
-	url = https://github.com/jinghuazhao/r
-	shallow = true
-	subdir = tdthap
-	registered = true
