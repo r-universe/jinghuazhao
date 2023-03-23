@@ -21,6 +21,11 @@
 	shallow = true
 	subdir = lmm
 	registered = true
+[submodule "pan"]
+	path = pan
+	url = https://github.com/cran/pan
+	shallow = true
+	registered = true
 [submodule "tdthap"]
 	path = tdthap
 	url = https://github.com/jinghuazhao/r
