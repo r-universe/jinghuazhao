@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "gaawr2"]
+	path = gaawr2
+	url = https://github.com/jinghuazhao/gaawr2
 [submodule "gap"]
 	path = gap
 	url = https://github.com/jinghuazhao/r
