@@ -17,6 +17,9 @@
 	path = lmm
 	url = https://github.com/jinghuazhao/r
 	subdir = lmm
+[submodule "pQTLdata"]
+	path = pQTLdata
+	url = https://github.com/jinghuazhao/pqtldata
 [submodule "pan"]
 	path = pan
 	url = https://github.com/cran/pan
